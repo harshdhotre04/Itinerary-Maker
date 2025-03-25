@@ -5,7 +5,7 @@ import re  # For extracting JSON
 from datetime import datetime, timedelta
 
 # Set your API key
-API_KEY = "AIzaSyBIDCqTiMPg4WvL5k1nXZ1Ee3MeVaLjJN8"
+API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=API_KEY)
 
 # Initialize the Gemini model
